@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./resources/extras/logo_readme.jpg" alt="DreamUbxKaneki Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
@@ -28,7 +28,7 @@
 - [Local Machine](#deploy-locally)
 
 # Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
+[![Documentation](https://telegra.ph/file/c35874793e4e5974ee86c.jpg)](http://ultroid.tech/)
 
 # Tutorial 
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
